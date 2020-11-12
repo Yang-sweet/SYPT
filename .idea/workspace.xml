@@ -10,83 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5de7e7d-f431-43ed-a1e2-a88be1824283" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SYPT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Didi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TEST19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TTTT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Teat12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UploadServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/banyu3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jinshanyun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/longestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/longs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meituan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meituan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/meituan3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/quicksort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shence1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shence2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shence4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/weiju.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/weiju2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xiaomi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xiaomi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yanzheng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/Login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/bg4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/message.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/monitoring.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/progress.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/uploadtest.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/SYPT/Login.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/SYPT/META-INF/MANIFEST.MF" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/SYPT/WEB-INF/classes/Didi1.class" afterDir="false" />
@@ -273,9 +197,6 @@
       <change afterPath="$PROJECT_DIR$/target/classes/xiaomi2.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/yanzheng.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/zijie1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -780,8 +701,16 @@
       <workItem from="1603072376725" duration="1346000" />
       <workItem from="1603075573406" duration="30854000" />
       <workItem from="1605171804936" duration="27000" />
-      <workItem from="1605172173133" duration="506000" />
+      <workItem from="1605172173133" duration="1129000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1605173300323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605173300324</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -817,12 +746,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161315000" />
+    <option name="totallyTimeSpent" value="161938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17219079" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17219079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -838,7 +767,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3285968" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.61989343" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23978686" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.31914893" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.10992908" />
@@ -888,6 +817,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
