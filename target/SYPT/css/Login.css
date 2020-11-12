@@ -1,0 +1,40 @@
+#body{padding:0; margin:0;}
+
+#title{margin-left: 20px; margin-top: 10px;}
+
+#login img.logBanner {
+    width: 100%;
+    overflow: hidden;
+}
+body{
+    background-image: url("../img/bg4.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#login{
+    position: absolute;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 30%;
+    width: 340px;
+    height: 250px;
+    border: solid 3px;
+    border-radius: 1%;
+    color: #f7eeee;
+    padding: 20px;
+    z-index: 20;
+    background: #35495b;
+
+}
+input[type=submit]{
+    width: 150px;
+    height: 30px;
+    background-color: #e8a474b0;
+    color: #FFFFFF;
+    border: solid 1px #e8a474b0;}
+
+#login_div{text-align: center;}
+#login_form{text-align: center; margin-top: 30px; }
+#uname{margin: 20px; margin-right: 90px; text-align: right;}
+#pwd{margin: 20px; margin-right: 90px; text-align: right;}
+#user_type{margin: 20px; margin-right: 90px; text-align: right;}
